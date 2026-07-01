@@ -387,7 +387,7 @@ export const projects: Project[] = [
     image: '/projects/sure-tomorrow-insurance.png',
 
     links: {
-      github: 'https://github.com/cfelipe-yanez/sure-tomorrow-insurance-machine-learning',
+      github: 'https://github.com/cfelipe-yanez/sure_tomorrow_insurance_ml',
     },
 
     overview:
@@ -464,7 +464,7 @@ export const projects: Project[] = [
   image: '/projects/ride-sharing-demand.png',
 
   links: {
-    github: 'https://github.com/cfelipe-yanez/ride-sharing-demand-prediction',
+    github: 'https://github.com/cfelipe-yanez/sweet_lift_taxi_demand_prediction',
   },
 
   overview:
